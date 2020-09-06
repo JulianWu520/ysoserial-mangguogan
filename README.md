@@ -30,6 +30,6 @@ java -jar ysoserial-managguogan-0.0.1-SNAPSHOT-all.jar decode base64string 1.txt
 base64string应该注意把前面的杂乱数据去掉，比如
 ![base64](base64.jpg)
 ![detect](detect.jpg)
-1.txt是把序列化数据存入到1.txt文件中
+xxx.txt是把序列化数据存入到xxx.txt文件中
 
 
